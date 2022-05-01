@@ -75,3 +75,6 @@ body {
 .video-channel-name:hover {
   color: #111;
 }
+footer b {
+  color: red;
+}
